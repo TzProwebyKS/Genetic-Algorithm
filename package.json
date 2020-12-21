@@ -1,0 +1,16 @@
+{
+  "name": "genetic-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Individual.js",
+  "scripts": {
+    "start": "nodemon ./src/setup.js",
+    "setup": "node ./src/setup.js"
+  },
+  "author": "Misael",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "nodeplotlib": "^0.6.5"
+  }
+}
